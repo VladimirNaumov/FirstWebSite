@@ -57,6 +57,8 @@ place-items: center;
 color: bisque;
 margin: o auto;
 max-width: 80ch;
+}
 
-
+.scr-a{
+background-color: aliceblue;
 }
